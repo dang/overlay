@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/dev/dang/!svn/ver/108/maintainer/x11-terms/gnome-terminal/files
+END
+gnome-terminal-2.22.1-orange-cursor.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dev/dang/!svn/ver/94/maintainer/x11-terms/gnome-terminal/files/gnome-terminal-2.22.1-orange-cursor.patch
+END
+gnome-terminal-2-dnd_url_add_space.patch
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/dev/dang/!svn/ver/94/maintainer/x11-terms/gnome-terminal/files/gnome-terminal-2-dnd_url_add_space.patch
+END
+gnome-terminal-2.24.2-restore-switch-to-tab.patch
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/dev/dang/!svn/ver/108/maintainer/x11-terms/gnome-terminal/files/gnome-terminal-2.24.2-restore-switch-to-tab.patch
+END
+gnome-terminal-2.22.0-default_shell.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dev/dang/!svn/ver/94/maintainer/x11-terms/gnome-terminal/files/gnome-terminal-2.22.0-default_shell.patch
+END
+gnome-terminal-2.23.6-orange-cursor.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dev/dang/!svn/ver/96/maintainer/x11-terms/gnome-terminal/files/gnome-terminal-2.23.6-orange-cursor.patch
+END
+gnome-terminal-2.22.3-tab-close-fix.patch
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/dev/dang/!svn/ver/95/maintainer/x11-terms/gnome-terminal/files/gnome-terminal-2.22.3-tab-close-fix.patch
+END
