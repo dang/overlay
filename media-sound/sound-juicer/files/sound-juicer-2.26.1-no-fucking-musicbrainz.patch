@@ -1,0 +1,19 @@
+diff --exclude-from=/home/dang/.scripts/diffrc -up -ruN sound-juicer-2.26.1.orig/src/sj-main.c sound-juicer-2.26.1/src/sj-main.c
+--- sound-juicer-2.26.1.orig/src/sj-main.c	2009-02-24 07:05:50.000000000 -0500
++++ sound-juicer-2.26.1/src/sj-main.c	2009-08-08 15:49:59.554859131 -0400
+@@ -549,6 +549,7 @@ static void update_ui_for_album (AlbumDe
+     }
+ 
+     /* If album details don't come from MusicBrainz ask user to add them */
++#if MUSICBRIANZ_ANNOY_THE_SHIT_OUT_OF_USERS
+     if (album->metadata_source != SOURCE_MUSICBRAINZ) {
+       GtkWidget *message_area;
+ 
+@@ -566,6 +567,7 @@ static void update_ui_for_album (AlbumDe
+ 
+       gtk_widget_show (message_area);
+     }
++#endif MUSICBRIANZ_ANNOY_THE_SHIT_OUT_OF_USERS
+   }
+ }
+ 
